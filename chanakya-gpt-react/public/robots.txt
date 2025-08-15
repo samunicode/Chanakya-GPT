@@ -1,0 +1,7 @@
+# ChanakyaGPT - Ancient Wisdom, Modern AI
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap (add when available)
+# Sitemap: https://yourdomain.com/sitemap.xml

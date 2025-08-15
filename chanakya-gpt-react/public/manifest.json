@@ -1,0 +1,20 @@
+{
+  "short_name": "ChanakyaGPT",
+  "name": "ChanakyaGPT - Ancient Wisdom, Modern AI",
+  "icons": [
+    {
+      "src": "assets/img/trylog.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/img/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#004AAD",
+  "background_color": "#ffffff"
+}
